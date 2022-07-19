@@ -1,6 +1,6 @@
 # Orchid test
 
-El proposito de este test el identificar el conocimiento sobre Laravel & Laravel Orchid
+El propósito de este test el identificar el conocimiento sobre Laravel & Laravel Orchid
 
 # Conceptos
 
@@ -11,6 +11,11 @@ El proposito de este test el identificar el conocimiento sobre Laravel & Laravel
 - Sugerencia para el modulo personalizado: crear un modulo de usuarios
 
 ## Elementos de formulario (Form elements)
+
+- Documentar mediante comentarios en el codigo cada uno de los *Form elements* usados en el anterior modulo personalizado
+- ¿Que *Form element* deberia usar para cargar archivos?
+- ¿Que *Form element* deberia usar para crear una tabla con con campos modificables?
+- ¿Con cuales *form elements* puedo crear un selector con relaciones?
 
 ## Navigation
 
