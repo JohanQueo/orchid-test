@@ -1,13 +1,16 @@
-# orchid-test
-This project is to test Laravel framework &amp; Laravel Orchid skills
+# Orchid test
 
-The purpose for this test is to get knowlegde about Laravel & Orchid skills
+El proposito de este test el identificar el conocimiento sobre Laravel & Laravel Orchid
 
-# Concepts
+# Conceptos
 
-## Screens
+## Pantallas (Screens)
 
-## Form elements
+- Explicar en pocas palabras como funciona el mecanismo de Screens de Laravel Orchid
+- Realizar un ejemplo en codigo con un modulo personalizado para aplicar lo anterior explicado
+- Sugerencia para el modulo personalizado: crear un modulo de usuarios
+
+## Elementos de formulario (Form elements)
 
 ## Navigation
 
